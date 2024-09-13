@@ -1,7 +1,7 @@
 # TAFILAT Dataset: Comprehensive Solution Space for Arabic Poetic Meters
 
  <p align="center"> 
- <img src = "https://raw.githubusercontent.com/droaas/Tafilat/main/images/TafilatLogo.png" width = "200px"/>
+ <img src = "https://raw.githubusercontent.com/NoorBayan/Tafilat/main/images/TafilatLogo.png" width = "200px"/>
  </p>
 
 **TAFILAT تفعيلات** is a complete dataset offering all possible patterns for Arabic poetic meters, meticulously curated from classical prosody sources. Designed to automate and enhance research in Arabic meter classification and poetry generation.
@@ -71,7 +71,7 @@ In this step, we built the **TAFILAT** database, carefully cataloging every vali
 Linguistic experts evaluated the dataset’s accuracy, ensuring its reliability for further research. The taf’ilat were cross-verified against traditional sources and modern interpretations of Arabic poetic meter.
 
  <p align="center"> 
- <img src = "https://raw.githubusercontent.com/droaas/Tafilat/main/images/TafilatMethodology.png" width = "200px"/>
+ <img src = "https://raw.githubusercontent.com/NoorBayan/Tafilat/main/images/TafilatMethodology.png" width = "200px"/>
  </p>
  
 ## Importance and Applications
@@ -94,7 +94,7 @@ The **TAFILAT** dataset is available in CSV format and can be integrated into va
 1. **Clone the repository**:
    You can clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/yourusername/TAFILAT.git
+   git clone https://github.com/NoorBayan/TAFILAT.git
 
 2. **Access detailed instructions**:
    For comprehensive guidelines on how to use the dataset, including sample code and practical applications, visit the [Google Colab notebook](https://colab.research.google.com/your-notebook-link), where you’ll find step-by-step instructions.
