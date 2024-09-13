@@ -3,7 +3,8 @@
  <p align="center"> 
  <img src = "https://raw.githubusercontent.com/droaas/Tafilat/main/images/TafilatLogo.png" width = "200px"/>
  </p>
-*A complete dataset offering all possible patterns for Arabic poetic meters, meticulously curated from classical prosody sources. Designed to automate and enhance research in Arabic meter classification and poetry generation.*
+
+**TAFILAT تفعيلات** is a complete dataset offering all possible patterns for Arabic poetic meters, meticulously curated from classical prosody sources. Designed to automate and enhance research in Arabic meter classification and poetry generation.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -54,7 +55,8 @@ The dataset is organized into a table with the following key attributes:
 ## Methodology
 
 ### Step 1: Pattern Generation
-We applied the **Qawafi system** to generate metrical patterns based on four key prosodic traditions:
+We applied the **Bohor system** to generate metrical patterns based on four key prosodic traditions:
+We applied the [**Bohor system**](https://github.com/NoorBayan/Bohor) to generate metrical patterns based on four key prosodic traditions:
 - **Al-Khalil ibn Ahmad's System**: Covers 16 classical Arabic poetic meters, focusing on classical Arabic poetry known as "Qasidah."
 - **Modern Additions to Al-Khalil's System**: Includes new meters used in colloquial Arabic poetry introduced by modern poets.
 - **Borrowed Meters**: Includes borrowed meters from other literary traditions, such as the Persian-origin "Dobayti."
@@ -68,8 +70,10 @@ In this step, we built the **TAFILAT** database, carefully cataloging every vali
 ### Step 3: Verification and Evaluation
 Linguistic experts evaluated the dataset’s accuracy, ensuring its reliability for further research. The taf’ilat were cross-verified against traditional sources and modern interpretations of Arabic poetic meter.
 
-![Methodology Overview](path/to/methodology-image.png)
-
+ <p align="center"> 
+ <img src = "https://raw.githubusercontent.com/droaas/Tafilat/main/images/TafilatMethodology.png" width = "200px"/>
+ </p>
+ 
 ## Importance and Applications
 The **TAFILAT** dataset offers significant benefits to researchers and developers working in Arabic prosody, machine learning, and natural language processing (NLP):
 - **Metrical Analysis**: Facilitates the study and analysis of Arabic poetic meters.
