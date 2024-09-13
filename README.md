@@ -71,7 +71,7 @@ In this step, we built the **TAFILAT** database, carefully cataloging every vali
 Linguistic experts evaluated the dataset’s accuracy, ensuring its reliability for further research. The taf’ilat were cross-verified against traditional sources and modern interpretations of Arabic poetic meter.
 
  <p align="center"> 
- <img src = "https://raw.githubusercontent.com/NoorBayan/Tafilat/main/images/TafilatMethodology.png" width = "200px"/>
+ <img src = "https://raw.githubusercontent.com/NoorBayan/Tafilat/main/images/TafilatMethodology.png" width = "400px"/>
  </p>
  
 ## Importance and Applications
