@@ -97,7 +97,15 @@ The **TAFILAT** dataset is available in CSV format and can be integrated into va
    git clone https://github.com/NoorBayan/TAFILAT.git
 
 2. **Access detailed instructions**:
-   For comprehensive guidelines on how to use the dataset, including sample code and practical applications, visit the [Google Colab notebook](https://colab.research.google.com/your-notebook-link), where you’ll find step-by-step instructions.
+   For comprehensive guidelines on how to use the dataset, including sample code and practical applications, visit the [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c2AsPfdwj4ELEypTEmsSTewtVQ8MVXP3?usp=drive_link), where you’ll find step-by-step instructions.
+
+ <p align="center">
+   <img src = "https://raw.githubusercontent.com/NoorBayan/Tafilat/main/images/TafilatColab.png" width = "600px"/>
+ </p>
+
+### Steps to Use Tafilat on Google Colab:
+1. **Run the first cell** by clicking the "Run" button to load the necessary files and libraries.
+2. **Execute the notebook**, and dropdown menus will appear with various poetry categories. You can experiment by selecting different options, and the corresponding poetic data will be displayed based on your choices.
 
 ---
 
